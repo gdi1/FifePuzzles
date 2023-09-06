@@ -1,0 +1,9 @@
+Magic Eights Puzzle:
+Start with a 3x3 grid containing the numbers 1-8 in a shuffled order and a free space
+By clicking on one of the numbers adjacent to the free space, the number will move into the free space and leave a gap where it previously was
+The puzzle is solved once the numbers are in the format:
+1 2 3
+4 5 6
+7 8
+with the free space in the bottom right corner.
+

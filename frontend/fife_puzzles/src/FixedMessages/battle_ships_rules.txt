@@ -1,0 +1,4 @@
+Battleships Rules:
+Playing against another human player, privately place your ships on your own personal grid
+Then take turns guessing where your opponents have placed their ships on their grid
+The player who can find and sink all of their opponents ships first is the winner

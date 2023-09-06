@@ -1,0 +1,7 @@
+run_tests:
+  image: node:latest
+  before_script:
+    - cd backend
+    - npm install
+  script:
+    - npm test

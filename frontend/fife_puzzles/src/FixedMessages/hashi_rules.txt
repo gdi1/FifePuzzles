@@ -1,0 +1,5 @@
+Hashi Rules:
+Connect the islands together using bridges to solve the puzzle
+Bridges can be built between two islands either horizontally or vertically
+There can be at most two bridges between the same two islands and bridges can't overlap
+The puzzle is solved once every island is connected to as many bridges as the number in the island and it is possible to visit every other island starting from any island using the bridges.

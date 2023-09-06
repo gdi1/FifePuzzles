@@ -1,0 +1,3 @@
+Themo-Sudoku Rules:
+Standard Sudoku rules:(insert a number in the indicated range into each cell so that no number repeats in any row, column, or bold region). 
+Some thermometer shapes are in the grid; numbers must be strictly increasing from the round bulb to the flat end.
